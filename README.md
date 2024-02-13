@@ -14,7 +14,7 @@ RTPSplitter is a Java tool for parsing and splitting Real-Time Protocol (RTP) an
 
 1. Clone this repository to your local machine:
 
-```bash
+
 git clone https://github.com/yourusername/RTPSplitter.git
 
 cd RTPSplitter
