@@ -21,7 +21,7 @@ cd RTPSplitter
 javac -cp .:lib/* io/pkts/tools/RTPSplitter.java
 
 java -cp .:lib/* io.pkts.tools.RTPSplitter
-
+```bash
 Dependencies
 RTPSplitter uses the following dependencies:
 
